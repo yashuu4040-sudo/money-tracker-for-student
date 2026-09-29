@@ -1,0 +1,24 @@
+{
+    "transactions": [
+        {
+            "type": "Income",
+            "amount": 12345.0,
+            "category": "bank",
+            "description": "Income"
+        },
+        {
+            "type": "Expense",
+            "amount": 2000.0,
+            "category": "food",
+            "description": "ate at restro"
+        },
+        {
+            "type": "Income",
+            "amount": 123.0,
+            "category": "fghj",
+            "description": "Income"
+        }
+    ],
+    "budget": 0,
+    "savings_goal": 6000.0
+}
